@@ -1,0 +1,8 @@
+pyqt5
+speechrecognition
+pyaudio
+nltk
+spacy
+pyttsx3
+smtplib
+requests
